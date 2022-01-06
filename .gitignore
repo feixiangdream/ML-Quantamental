@@ -2,3 +2,5 @@
 因子勘误说明文档.docx
 Errata.pdf
 .DS_Store
+.idea/
+Codes/__pycache__/
